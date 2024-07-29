@@ -1,5 +1,6 @@
 Project Name
 Overview
+
 This project is a comprehensive web application that offers user registration, login, and photo upload functionality. It is designed to be intuitive, secure, and efficient, catering to the needs of modern web applications. The project includes multiple routes to handle different functionalities and ensures a smooth user experience.
 
 Features
@@ -22,3 +23,15 @@ Easy navigation and better code management.
 
 
 Clone the repository
+https://github.com/Psrkrk/Pinterest.git
+
+
+Screenshots
+registration page
+![Uploading image.png…]()
+
+
+
+
+
+
