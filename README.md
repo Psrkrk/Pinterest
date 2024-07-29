@@ -31,6 +31,16 @@ registration page
 ![Uploading image.png…]()
 
 
+Usage
+Register a new account.
+Log in with your credentials.
+Upload your profile photo.
+Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 
